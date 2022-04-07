@@ -188,7 +188,6 @@ label #cancel {
   .nav-list .nav-item,
   .nav-list .nav-button {
     display: block;
-    line-height: 80px;
     margin: 50px 0;
     line-height: 30px;
   }
